@@ -1,0 +1,72 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    font-family: "Poppins", sans-serif;
+    background: url("./img/backround.png") no-repeat fixed center rgb(224, 53, 1);
+    background-size: cover;
+    background-color: #fafafae0;
+    /* font-weight: 500; */
+    font-size: 1.5rem;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+/********** Navbar **********/
+.navbar{
+    border-radius: 0 0 15px 15px;
+    }
+   .navbar-light .navbar-nav .nav-link {
+color: #000;
+} 
+/********** navbar **********/
+/* input,
+textarea {
+  font-family: "Poppins", sans-serif;
+}
+
+
+.hero {
+    text-align: center;
+    padding: 2rem 0;
+    background: #f4f4f4;
+}
+
+.features {
+    padding: 2rem;
+    background: #e4e4e4;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+    background: #f4f4f4;
+    border-radius: 8px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+form button {
+    padding: 10px 15px;
+    background: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: #fff;
+} */
