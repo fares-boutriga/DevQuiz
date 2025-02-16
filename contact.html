@@ -94,7 +94,7 @@
 
           <form action="https://api.web3forms.com/submit" method="POST">
             <h3 class="title">Contactez-nous</h3>
-            <input type="hidden" name="access_key" value="4d182d55-ddef-44ef-b640-bedb5f30d898">
+            <input type="hidden" name="access_key" value={process.env.ACCESS_KEY} /> <!-- your access key here--> 
             <div class="input-container">
               <input type="text" name="name" class="input" />
               <label for="">Username</label>
